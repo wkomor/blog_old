@@ -150,6 +150,7 @@ INSTALLED_APPS = [
     'djangocms_inherit',
     'djangocms_link',
     'reversion',
+
     'aldryn_apphooks_config',
     'aldryn_categories',
     'aldryn_common',
@@ -160,6 +161,7 @@ INSTALLED_APPS = [
     'parler',
     'sortedm2m',
     'taggit',
+
     'komorovski'
 ]
 
